@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ShareKitTutorial.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../StorageKitTutorial/StorageKitTutorial.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../SelectorUIViewKitTutorial/SelectorUIViewKitTutorial.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../NetworkKitTutorial/NetworkKitTutorial.xcodeproj">
+   </FileRef>
+</Workspace>
